@@ -7,7 +7,7 @@ import com.kotlin.tiaistiana.repository.db.berita.NewsDao
 import com.kotlin.tiaistiana.repository.model.Negara.Country
 import com.kotlin.tiaistiana.repository.model.Berita.News
 
-
+// TODO 7 : ROOM DB
 
 /**
  * Basis Data Aplikasi
